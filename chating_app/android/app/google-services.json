@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053615184541",
+    "project_id": "chaty-2812e",
+    "storage_bucket": "chaty-2812e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053615184541:android:348fc03aee2554715bd274",
+        "android_client_info": {
+          "package_name": "com.example.chating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053615184541-1tv2id8gm4ttv6tjcc6dkipca6vskngc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chating_app",
+            "certificate_hash": "df9127284d59747171dc677e7f3ce1c59b10b960"
+          }
+        },
+        {
+          "client_id": "1053615184541-ev39harku700pf8494co8h7vtvmqiave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwpub5gBW5vwVrpv6-I_mYMXE76PuyBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053615184541-ev39harku700pf8494co8h7vtvmqiave.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
